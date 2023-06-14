@@ -150,13 +150,13 @@ do
 done
 ```
 - Accuracy
-![image](https://github.com/MachineLearningNTUT/taiwanese-speech-recognition-using-ssl-pre-trained-models-0812509/blob/main/images/acc.png)
+![image](https://github.com/krazyjoy/taiwanese-speech-recognition-using-ssl-pre-trained-models-0812509/blob/master/images/acc.png)
 
 - Loss
-![image](https://github.com/MachineLearningNTUT/taiwanese-speech-recognition-using-ssl-pre-trained-models-0812509/blob/main/images/loss.png)
+![image](https://github.com/krazyjoy/taiwanese-speech-recognition-using-ssl-pre-trained-models-0812509/blob/master/images/loss.png)
 
 - WER
-![image](https://github.com/MachineLearningNTUT/taiwanese-speech-recognition-using-ssl-pre-trained-models-0812509/blob/main/images/wer.png)
+![image](https://github.com/krazyjoy/taiwanese-speech-recognition-using-ssl-pre-trained-models-0812509/blob/master/images/wer.png)
 
 
 ## 心得
