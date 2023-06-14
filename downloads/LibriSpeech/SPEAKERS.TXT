@@ -1,0 +1,4 @@
+;ID  |SEX| SUBSET           |MINUTES| NAME
+1    | F | noisy-train      | 25.03 | Kristin LeMoine
+2    | F | noisy-test       | 25.03 | Kristin LeMoine
+3    | F | noisy-dev        | 25.03 | Kristin LeMoine
